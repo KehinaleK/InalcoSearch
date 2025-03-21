@@ -1,0 +1,88 @@
+INFO:root:Début du script !
+INFO:root:Début du script !
+INFO:root:La database est créée !
+INFO:chromadb.telemetry.product.posthog:Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+INFO:root:Début de la partie 7 !
+INFO:root:Début du script !
+INFO:root:La database est créée !
+INFO:chromadb.telemetry.product.posthog:Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+INFO:root:Extraction du texte du fichier ../data/corpus/pdf_files/formation_malgache_diplome_langue_a_distance_dl3_2023-2024.pdf !
+INFO:numexpr.utils:Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:pikepdf._core:pikepdf C++ to Python logger bridge initialized
+INFO:root:Chunking du texte extrait précédemment !
+INFO:root:Chunking du texte extrait précédemment !
+INFO:root:Chunking du texte extrait précédemment !
+INFO:root:Chunking du texte extrait précédemment !
+INFO:root:Chunking du texte extrait précédemment !
+INFO:root:Chunking du texte extrait précédemment !
+INFO:root:Création des chunks !
+INFO:root:Stockage des chunks dans la base de données !
+INFO:root:Extraction du texte du fichier ../data/corpus/pdf_files/transversal_vac_2023_2024_formulaire.pdf !
+INFO:root:Chunking du texte extrait précédemment !
+INFO:root:Création des chunks !
+INFO:root:Stockage des chunks dans la base de données !
+INFO:root:Extraction du texte du fichier ../data/corpus/pdf_files/inalco_-_fact_sheet_-_2022-2023_0.pdf !
+INFO:root:Chunking du texte extrait précédemment !
+INFO:root:Création des chunks !
+INFO:root:Stockage des chunks dans la base de données !
+INFO:root:Extraction du texte du fichier ../data/corpus/pdf_files/copie_de_coreen_rattrapage_recu_le_18_mai_4.pdf !
+INFO:root:Chunking du texte extrait précédemment !
+INFO:root:Chunking du texte extrait précédemment !
+INFO:root:Création des chunks !
+INFO:root:Stockage des chunks dans la base de données !
+INFO:root:Extraction du texte du fichier ../data/corpus/pdf_files/livret_public_enseignement_livret_2022-2023_v11.cleaned_2_.pdf !
+INFO:root:Chunking du texte extrait précédemment !
+INFO:root:Chunking du texte extrait précédemment !
+INFO:root:Chunking du texte extrait précédemment !
+INFO:root:Chunking du texte extrait précédemment !
+INFO:root:Chunking du texte extrait précédemment !
+INFO:root:Chunking du texte extrait précédemment !
+INFO:root:Chunking du texte extrait précédemment !
+INFO:root:Chunking du texte extrait précédemment !
+INFO:root:Chunking du texte extrait précédemment !
+INFO:root:Chunking du texte extrait précédemment !
+INFO:root:Chunking du texte extrait précédemment !
+INFO:root:Chunking du texte extrait précédemment !
+INFO:root:Chunking du texte extrait précédemment !
+INFO:root:Chunking du texte extrait précédemment !
+INFO:root:Chunking du texte extrait précédemment !
+INFO:root:Chunking du texte extrait précédemment !
+INFO:root:Chunking du texte extrait précédemment !
+INFO:root:Chunking du texte extrait précédemment !
+INFO:root:Chunking du texte extrait précédemment !
+INFO:root:Chunking du texte extrait précédemment !
+INFO:root:Chunking du texte extrait précédemment !
+INFO:root:Chunking du texte extrait précédemment !
+INFO:root:Chunking du texte extrait précédemment !
+INFO:root:Chunking du texte extrait précédemment !
+INFO:root:Chunking du texte extrait précédemment !
+INFO:root:Chunking du texte extrait précédemment !
+INFO:root:Chunking du texte extrait précédemment !
+INFO:root:Chunking du texte extrait précédemment !
+INFO:root:Chunking du texte extrait précédemment !
+INFO:root:Chunking du texte extrait précédemment !
+INFO:root:Chunking du texte extrait précédemment !
+INFO:root:Chunking du texte extrait précédemment !
+INFO:root:Chunking du texte extrait précédemment !
+INFO:root:Chunking du texte extrait précédemment !
+INFO:root:Chunking du texte extrait précédemment !
+INFO:root:Chunking du texte extrait précédemment !
+INFO:root:Chunking du texte extrait précédemment !
+INFO:root:Chunking du texte extrait précédemment !
+INFO:root:Chunking du texte extrait précédemment !
+INFO:root:Chunking du texte extrait précédemment !
+INFO:root:Chunking du texte extrait précédemment !
+INFO:root:Chunking du texte extrait précédemment !
+INFO:root:Chunking du texte extrait précédemment !
+INFO:root:Chunking du texte extrait précédemment !
+INFO:root:Chunking du texte extrait précédemment !
+INFO:root:Chunking du texte extrait précédemment !
+INFO:root:Chunking du texte extrait précédemment !
+INFO:root:Chunking du texte extrait précédemment !
+INFO:root:Chunking du texte extrait précédemment !
+INFO:root:Chunking du texte extrait précédemment !
+INFO:root:Chunking du texte extrait précédemment !
+INFO:root:Chunking du texte extrait précédemment !
+INFO:root:Création des chunks !
+INFO:root:Stockage des chunks dans la base de données !
